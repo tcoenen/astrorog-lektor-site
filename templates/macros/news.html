@@ -1,0 +1,13 @@
+{% macro render_news_item(post, from_index=false) %}
+  <div class="news-item">
+  {% if from_index %}
+    <h2><a href="{{ post|url }}" class="text-dark">{{ post.title }}</a></h2>
+  {% else %}
+    <h2>{{ post.title }}</h2>
+  {% endif %}
+  {{ post.body }}
+  <p class="meta">
+  <em>{{ post.author }}, {{ post.pub_date }} </em>
+  </p>
+  </div>
+{% endmacro %}
