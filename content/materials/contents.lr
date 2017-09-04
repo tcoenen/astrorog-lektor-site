@@ -2,7 +2,12 @@ title: Materials
 ---
 body:
 
+Course materials will be posted below:
 
-* Reader
-* assignment
-* Project 3
+ * [Pretest and survey for  BLCAA 2017](/assets/week1/astroprog-survey.pdf)
+
+External reference materials (beware that some of these use Python 3 and that this course uses Python 2):
+* [Learn Python the hard way](https://learnpythonthehardway.org/)
+* [The hitchhikers guide to Python](http://docs.python-guide.org/en/latest/)
+* [Netherlands eScience center guide](https://guide.esciencecenter.nl/)
+* [Software Carpentry](https://software-carpentry.org/)
