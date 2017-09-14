@@ -1,0 +1,18 @@
+title: Optional project: Machine Learning on Pulsar data
+---
+author: Thijs Coenen
+---
+body:
+
+Dear students,
+
+Those of you who scored highly on the pre-test can choose to do a special project in stead of taking the basic course. In this project you will learn the basics of machine learning and write a report about your attempt to reproduce the results in the following paper:
+
+[SPINN: a straight forward machine learning solution to the pulsar candidate selection problem](https://doi.org/10.1093/mnras/stu1188)
+
+Over the course of 5 weeks we will explain the basics of machine learning and work on the classification problem mentioned in the paper above. We will use Python machine learning libraries such as **TensorFlow** to reproduce the results. 
+
+Sincerely,
+Thijs Coenen
+---
+pub_date: 2017-09-14
