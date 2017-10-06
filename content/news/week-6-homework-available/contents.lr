@@ -1,0 +1,16 @@
+title: Week 6: Homework available
+---
+author: Thijs Coenen
+---
+body:
+
+Dear students,
+
+The homework for week 6 is available. It is about exoplanets and you will write a program to re-detect a known exoplanet in Kepler lightcurve data. This data is available from the NASA webpages in FITS format. The assignment will explain you how to perform this analysis.
+
+The reader as of 2017-10-06 is available [here](/assets/week6/astroprog-2017-10-06.pdf).
+
+Sincerely,
+Thijs Coenen
+---
+pub_date: 2017-10-06
